@@ -10,9 +10,9 @@ use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
 
 /**
- * DomainNameController implements the CRUD actions for DomainName model.
+ * DomainController implements the CRUD actions for DomainName model.
  */
-class DomainNameController extends Controller
+class DomainController extends Controller
 {
     /**
      * @inheritdoc
